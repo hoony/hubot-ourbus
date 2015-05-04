@@ -1,16 +1,16 @@
 {
-  "name": "hubot-rules",
-  "description": "A hubot script that explains the rules",
+  "name": "hubot-ourbus",
+  "description": "A hubot for Ourbus",
   "version": "0.1.0",
-  "author": "Josh Nichols <technicalpickles@github.com>",
+  "author": "Hoony <thechunsik@gmail.com>",
   "license": "MIT",
-  "keywords": "hubot, hubot-scripts",
+  "keywords": "hubot, hubot-scripts, ourbus",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-rules.git"
+    "url": "git://github.com/thechunsik/hubot-ourbus.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-rules/issues"
+    "url": "https://github.com/thechunsik/hubot-ourbus/issues"
   },
   "dependencies": {},
   "peerDependencies": {
