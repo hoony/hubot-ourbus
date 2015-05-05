@@ -12,7 +12,9 @@
   "bugs": {
     "url": "https://github.com/thechunsik/hubot-ourbus/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "coffee-script": "^1.9.2"
+  },
   "peerDependencies": {
     "hubot": "2.x"
   },
