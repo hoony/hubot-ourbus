@@ -14,7 +14,7 @@ Then add **hubot-rules** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-rules"
+  "hubot-ourbus"
 ]
 ```
 
